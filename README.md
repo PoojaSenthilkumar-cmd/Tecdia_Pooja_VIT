@@ -1,4 +1,3 @@
-# Tecdia_Pooja_VIT
 **VideoFrameReconstruction**
 
 1. Install dependencies:
